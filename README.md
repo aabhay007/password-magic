@@ -11,5 +11,6 @@ If you want to create your own packages visit pypi.org
 
 ## Installation
 
+
 ```bash
 pip install password-magic
