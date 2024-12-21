@@ -1,4 +1,5 @@
 # Password Magic 
+
 ## Overview
 Password Magic is a Python package for generating, validating, and checking the strength of passwords. It provides a simple interface to create secure passwords, validate them against security criteria, and assess their strength.
 
